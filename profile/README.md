@@ -1,4 +1,4 @@
-## Hi there 👋, this is my organization place for all my comissions! Most of these are private - unless the client specificly says I am allowed to public the source code.
+## Hi there 👋, this is my organization place for all my commissions! Most of these are private - unless the client specificly says I am allowed to public the source code.
 
 <!--
 
